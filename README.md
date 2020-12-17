@@ -1,6 +1,6 @@
 ### CHAPTERS:
 
-- ✅  | ⬜️ 1: Your first COBOL program
+- ✅  |  1: Your first COBOL program
     - ✅ |  read
     - ✅ |  do exercises
     - ✅ |  make anki cards for concepts/things you got stuck on
