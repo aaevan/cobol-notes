@@ -3,11 +3,11 @@
 - ✅  |  1: Your first COBOL program
     - ✅ |  read
     - ✅ |  do exercises
-    - ✅ |  make anki cards for concepts/things you got stuck on
-- ⬜️  |  2: Using Variables and Constants
-    - ⬜️ |  read
-    - ⬜️ |  do exercises
-    - ⬜️ |  make anki cards
+    - ✅ |  make anki cards
+- ✅  |  2: Using Variables and Constants
+    - ✅ |  read
+    - ✅ |  do exercises
+    - ✅ |  make anki cards
 - ⬜️  |  3:
     - ⬜️ |  read
     - ⬜️ |  do exercises
