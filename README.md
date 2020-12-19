@@ -8,14 +8,14 @@
     - ✅ |  read
     - ✅ |  do exercises
     - ✅ |  make anki cards
-- ⬜️  |  3:
-    - ⬜️ |  read
-    - ⬜️ |  do exercises
-    - ⬜️ |  make anki cards
-- ⬜️  |  4:
-    - ⬜️ |  read
-    - ⬜️ |  do exercises
-    - ⬜️ |  make anki cards
+- ✅  |  3:
+    - ✅ |  read
+    - ✅ |  do exercises
+    - ✅ |  make anki cards
+- ✅  |  4:
+    - ✅ |  read
+    - ✅ |  do exercises
+    - ✅ |  make anki cards
 - ⬜️  |  5:
     - ⬜️ |  read
     - ⬜️ |  do exercises
