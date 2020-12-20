@@ -8,18 +8,18 @@
     - ✅ |  read
     - ✅ |  do exercises
     - ✅ |  make anki cards
-- ✅  |  3:
+- ✅  |  3: (finished 12/18/20)
     - ✅ |  read
     - ✅ |  do exercises
     - ✅ |  make anki cards
-- ✅  |  4:
+- ✅  |  4: (finished 12/18/20)
     - ✅ |  read
     - ✅ |  do exercises
     - ✅ |  make anki cards
-- ⬜️  |  5:
-    - ⬜️ |  read
-    - ⬜️ |  do exercises
-    - ⬜️ |  make anki cards
+- ✅  |  5:
+    - ✅ |  read
+    - ✅ |  do exercises
+    - ✅ |  make anki cards
 - ⬜️  |  6:
     - ⬜️ |  read
     - ⬜️ |  do exercises
