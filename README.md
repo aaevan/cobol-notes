@@ -1,10 +1,10 @@
 ### CHAPTERS:
 
-- ✅  |  1: Your first COBOL program
+- ✅  |  1: (finished 12/17/20)
     - ✅ |  read
     - ✅ |  do exercises
     - ✅ |  make anki cards
-- ✅  |  2: Using Variables and Constants
+- ✅  |  2: (finished 12/17/20)
     - ✅ |  read
     - ✅ |  do exercises
     - ✅ |  make anki cards
@@ -16,18 +16,18 @@
     - ✅ |  read
     - ✅ |  do exercises
     - ✅ |  make anki cards
-- ✅  |  5:
+- ✅  |  5: (finished 12/19/20)
     - ✅ |  read
     - ✅ |  do exercises
     - ✅ |  make anki cards
-- ⬜️  |  6:
-    - ⬜️ |  read
-    - ⬜️ |  do exercises
-    - ⬜️ |  make anki cards
-- ⬜️  |  7:
-    - ⬜️ |  read
-    - ⬜️ |  do exercises
-    - ⬜️ |  make anki cards
+- ✅  |  6: (finished 12/21/20)
+    - ✅ |  read
+    - ✅ |  do exercises
+    - ✅ |  make anki cards
+- ✅  |  7: (finished 12/21/20)
+    - ✅ |  read
+    - ✅ |  do exercises
+    - ✅ |  make anki cards
 - ⬜️  |  8:
     - ⬜️ |  read
     - ⬜️ |  do exercises
