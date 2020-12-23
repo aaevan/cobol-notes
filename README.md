@@ -28,12 +28,12 @@
     - ✅ |  read
     - ✅ |  do exercises
     - ✅ |  make anki cards
-- ⬜️  |  8:
-    - ⬜️ |  read
-    - ⬜️ |  do exercises
-    - ⬜️ |  make anki cards
+- ✅  |  8: (finished 12/22/20)
+    - ✅ |  read
+    - ✅ |  do exercises
+    - ✅ |  make anki cards
 - ⬜️  |  9:
-    - ⬜️ |  read
+    - ⬜️ |  read (started)
     - ⬜️ |  do exercises
     - ⬜️ |  make anki cards
 - ⬜️  | 10:
