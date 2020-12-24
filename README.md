@@ -32,6 +32,14 @@
     - ✅ |  read
     - ✅ |  do exercises
     - ✅ |  make anki cards
+- ✅  |  9: (finished 12/23/20)
+    - ✅ |  read
+    - ✅ |  do exercises
+    - ✅ |  make anki cards
+- ✅  | 10: (finished 12/23/20)
+    - ✅ |  read
+    - ✅ |  do exercises
+    - ✅ |  make anki cards
 - ⬜️  |  9:
     - ⬜️ |  read (started)
     - ⬜️ |  do exercises
