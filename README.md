@@ -40,15 +40,7 @@
     - ✅ |  read
     - ✅ |  do exercises
     - ✅ |  make anki cards
-- ⬜️  |  9:
-    - ⬜️ |  read (started)
-    - ⬜️ |  do exercises
-    - ⬜️ |  make anki cards
-- ⬜️  | 10:
-    - ⬜️ |  read
-    - ⬜️ |  do exercises
-    - ⬜️ |  make anki cards
-- ⬜️  |  11:
+- ⬜️  | 11:
     - ⬜️ |  read
     - ⬜️ | do exercises
     - ⬜️ | make anki cards
