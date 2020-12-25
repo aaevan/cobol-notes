@@ -1,49 +1,49 @@
 ### CHAPTERS:
 
-- ✅  |  1: (finished 12/17/20)
+- ✅ |  1: (finished 12/17/20)
     - ✅ |  read
     - ✅ |  do exercises
     - ✅ |  make anki cards
-- ✅  |  2: (finished 12/17/20)
+- ✅ |  2: (finished 12/17/20)
     - ✅ |  read
     - ✅ |  do exercises
     - ✅ |  make anki cards
-- ✅  |  3: (finished 12/18/20)
+- ✅ |  3: (finished 12/18/20)
     - ✅ |  read
     - ✅ |  do exercises
     - ✅ |  make anki cards
-- ✅  |  4: (finished 12/18/20)
+- ✅ |  4: (finished 12/18/20)
     - ✅ |  read
     - ✅ |  do exercises
     - ✅ |  make anki cards
-- ✅  |  5: (finished 12/19/20)
+- ✅ |  5: (finished 12/19/20)
     - ✅ |  read
     - ✅ |  do exercises
     - ✅ |  make anki cards
-- ✅  |  6: (finished 12/21/20)
+- ✅ |  6: (finished 12/21/20)
     - ✅ |  read
     - ✅ |  do exercises
     - ✅ |  make anki cards
-- ✅  |  7: (finished 12/21/20)
+- ✅ |  7: (finished 12/21/20)
     - ✅ |  read
     - ✅ |  do exercises
     - ✅ |  make anki cards
-- ✅  |  8: (finished 12/22/20)
+- ✅ |  8: (finished 12/22/20)
     - ✅ |  read
     - ✅ |  do exercises
     - ✅ |  make anki cards
-- ✅  |  9: (finished 12/23/20)
+- ✅ |  9: (finished 12/23/20)
     - ✅ |  read
     - ✅ |  do exercises
     - ✅ |  make anki cards
-- ✅  | 10: (finished 12/23/20)
+- ✅ | 10: (finished 12/23/20)
     - ✅ |  read
     - ✅ |  do exercises
     - ✅ |  make anki cards
-- ⬜️  | 11:
-    - ⬜️ |  read
-    - ⬜️ | do exercises
-    - ⬜️ | make anki cards
+- ✅ | 11: (finished 12/24/20)
+    - ✅ |  read
+    - ✅ |  do exercises
+    - ✅ |  make anki cards
 - ⬜️ | 12:
     - ⬜️ | read
     - ⬜️ | do exercises
