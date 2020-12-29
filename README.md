@@ -44,9 +44,9 @@
     - ✅ |  read
     - ✅ |  do exercises
     - ✅ |  make anki cards
-- ⬜️ | 12:
-    - ⬜️ | read
-    - ⬜️ | do exercises
+- ✅ | 12:
+    - ✅ | read
+    - ✅ | do exercises
     - ⬜️ | make anki cards
 - ⬜️ | 13:
     - ⬜️ | read
