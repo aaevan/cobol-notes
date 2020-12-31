@@ -44,18 +44,18 @@
     - ✅ |  read
     - ✅ |  do exercises
     - ✅ |  make anki cards
-- ✅ | 12:
+- ✅ | 12: (finished 12/30/20)
     - ✅ | read
     - ✅ | do exercises
-    - ⬜️ | make anki cards
-- ⬜️ | 13:
-    - ⬜️ | read
-    - ⬜️ | do exercises
-    - ⬜️ | make anki cards
-- ⬜️ | 14:
-    - ⬜️ | read
-    - ⬜️ | do exercises
-    - ⬜️ | make anki cards
+    - ✅ | make anki cards
+- ✅ | 13: (finished 12/30/20)
+    - ✅ | read
+    - ✅ | do exercises
+    - ✅ | make anki cards
+- ✅ | 14: (finished 12/30/20)
+    - ✅ | read
+    - ✅ | do exercises
+    - ✅ | make anki cards
 - ⬜️ | 15:
     - ⬜️ | read
     - ⬜️ | do exercises
