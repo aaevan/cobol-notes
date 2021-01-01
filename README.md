@@ -56,10 +56,10 @@
     - ✅ | read
     - ✅ | do exercises
     - ✅ | make anki cards
-- ⬜️ | 15:
-    - ⬜️ | read
-    - ⬜️ | do exercises
-    - ⬜️ | make anki cards
+- ✅ | 15:
+    - ✅ | read
+    - ✅ | do exercises
+    - ✅ | make anki cards
 - ⬜️ | 16:
     - ⬜️ | read
     - ⬜️ | do exercises
