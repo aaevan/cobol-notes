@@ -60,10 +60,10 @@
     - ✅ | read
     - ✅ | do exercises
     - ✅ | make anki cards
-- ⬜️ | 16:
-    - ⬜️ | read
-    - ⬜️ | do exercises
-    - ⬜️ | make anki cards
+- ✅ | 16:
+    - ✅ | read
+    - ✅ | do exercises
+    - ✅ | make anki cards
 - ⬜️ | 17:
     - ⬜️ | read
     - ⬜️ | do exercises
