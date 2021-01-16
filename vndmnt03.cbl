@@ -1,0 +1,21 @@
+000100 IDENTIFICATION DIVISION.
+000200 PROGRAM-ID. VNDMNT03.
+000300*--------------------------------
+000400* Add, Change, Inquire and Delete
+000500* for the Vendor File.
+000600*--------------------------------
+000700 ENVIRONMENT DIVISION.
+000800 INPUT-OUTPUT SECTION.
+000900 FILE-CONTROL.
+001000
+001100     COPY "slvnd02.cbl".
+001200
+001300     COPY "slstate.cbl".
+001400
+001500 DATA DIVISION.
+001600 FILE SECTION.
+001700
+001800     COPY "fdvnd04.cbl".
+001900
+002000     COPY "fdstate.cbl".
+002100
