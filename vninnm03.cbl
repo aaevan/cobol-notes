@@ -1,5 +1,5 @@
        IDENTIFICATION DIVISION.
-       PROGRAM-ID. VNINNM01.
+       PROGRAM-ID. vninnm03.
       *--------------------------------
       * Inquire for the Vendor File
       * using vendor name.
@@ -35,9 +35,9 @@
            PERFORM MAIN-PROCESS.
            PERFORM CLOSING-PROCEDURE.
       
-             M-EXIT.
-                 ROGRAM. 
-      
+       PROGRAM-EXIT.
+           EXIT PROGRAM. 
+
        PROGRAM-DONE.
            STOP RUN.
       

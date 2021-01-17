@@ -68,8 +68,8 @@
     - ✅ | read
     - ✅ | do exercises
     - ✅ | make anki cards
-- ⬜️ | 18:
-    - ⬜️ | read
+- / | 18:
+    - / | read
     - ⬜️ | do exercises
     - ⬜️ | make anki cards
 - ⬜️ | 19:

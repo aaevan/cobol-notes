@@ -1,5 +1,5 @@
 000100 IDENTIFICATION DIVISION.
-000200 PROGRAM-ID. VNINNM01.
+000200 PROGRAM-ID. vninnm01.
 000300*--------------------------------
 000400* Inquire for the Vendor File
 000500* using vendor name.
