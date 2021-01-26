@@ -1,5 +1,5 @@
 000100 IDENTIFICATION DIVISION.
-000200 PROGRAM-ID. STCMNT04.
+000200 PROGRAM-ID. stcmnt04.
 000300*--------------------------------
 000400* Add, Change, Inquire and Delete
 000500* for the State Code.
@@ -239,7 +239,7 @@
 023900 PRINT-THE-RECORDS.
 024000     CLOSE STATE-FILE.
 024100     DISPLAY "REPORT IN PROGRESS".
-024200     CALL "STCRPT02".
+024200     CALL "stcrpt02".
 024300     OPEN I-O STATE-FILE.
 024400
 024500*--------------------------------

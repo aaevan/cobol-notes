@@ -1,5 +1,5 @@
 000100 IDENTIFICATION DIVISION.
-000200 PROGRAM-ID. STCRPT02.
+000200 PROGRAM-ID. stcrpt02.
 000300*--------------------------------
 000400* Report on the STATE File.
 000500*--------------------------------
