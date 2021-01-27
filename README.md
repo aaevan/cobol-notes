@@ -68,7 +68,7 @@
     - ✅ | read
     - ✅ | do exercises
     - ✅ | make anki cards
-- ✅ | 18:
+- ✅ | 18: (finished 01/26/20)
     - ✅ | read
     - ✅ | do exercises
     - ✅ | make anki cards
