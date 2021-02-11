@@ -22,6 +22,8 @@
        77  DATE-MMDDCCYY      PIC 9(8).
        77  DATE-QUOTIENT      PIC 9999.
        77  DATE-REMAINDER     PIC 9999.
+       77  MMDD               PIC 9(4).
+       77  CCYY               PIC 9(4).
       
        77  VALID-DATE-FLAG    PIC X.
            88  DATE-IS-INVALID  VALUE "N".
@@ -31,8 +33,7 @@
       
        01  DATE-CCYYMMDD      PIC 9(8).
        01  FILLER REDEFINES DATE-CCYYMMDD.
-           05  DATE-CCYY        PIC 9999.
-      
+           05  DATE-CCYY      PIC 9999.
            05  DATE-MM        PIC 99.
            05  DATE-DD        PIC 99.
       
@@ -76,14 +77,14 @@
        GET-ANY-DATE.
            MOVE "Y" TO ZERO-DATE-IS-OK.
            MOVE "ENTER AN OPTIONAL MM/DD/CCYY?" TO DATE-PROMPT.
-           MOVE "79 MUST BE ANY VALID DATE" TO DATE-ERROR-MESSAGE.
+           MOVE "MUST BE ANY VALID DATE" TO DATE-ERROR-MESSAGE.
            PERFORM GET-A-DATE.
            MOVE DATE-CCYYMMDD TO ANY-DATE.
       
        GET-REQUIRED-DATE.
            MOVE "N" TO ZERO-DATE-IS-OK.
            MOVE SPACE TO DATE-PROMPT.
-           MOVE "86 MUST ENTER A VALID DATE" TO DATE-ERROR-MESSAGE.
+           MOVE "MUST ENTER A VALID DATE" TO DATE-ERROR-MESSAGE.
            PERFORM GET-A-DATE.
            MOVE DATE-CCYYMMDD TO REQUIRED-DATE.
       
@@ -122,17 +123,18 @@
       
        ACCEPT-A-DATE.
            IF DATE-PROMPT = SPACE
-               DISPLAY "125 ENTER A DATE (MM/DD/CCYY)"
+               DISPLAY "ENTER A DATE (MM/DD/CCYY)"
            ELSE
                DISPLAY DATE-PROMPT.
       
            ACCEPT FORMATTED-DATE.
+           DISPLAY "FORMATTED-DATE: " FORMATTED-DATE.
       
            PERFORM EDIT-CHECK-DATE.
       
        RE-ACCEPT-A-DATE.
            IF DATE-ERROR-MESSAGE = SPACE
-               DISPLAY "135 INVALID DATE"
+               DISPLAY "INVALID DATE"
            ELSE
                DISPLAY DATE-ERROR-MESSAGE.
       
@@ -145,7 +147,9 @@
       
        EDIT-DATE.
            MOVE FORMATTED-DATE TO DATE-MMDDCCYY.
+           DISPLAY "DATE-MMDDCCYY is " DATE-MMDDCCYY.
            PERFORM CONVERT-TO-CCYYMMDD.
+           DISPLAY "DATE-CCYYMMDD is " DATE-CCYYMMDD.
       
       *---------------------------------
       * USAGE:
@@ -168,8 +172,12 @@
       *  DATE-CCYYMMDD.
       *---------------------------------
        CONVERT-TO-CCYYMMDD.
+           MOVE DATE-MMDDCCYY(1:4) TO MMDD.
+           MOVE DATE-MMDDCCYY(4:) TO CCYY.
+      *    DISPLAY "MMDD: " MMDD.
+      *    DISPLAY "CCYY: " CCYY.
            COMPUTE DATE-CCYYMMDD =
-                   DATE-MMDDCCYY * 10000.0001.
+               CCYY * 10000 + MMDD.
       
       *---------------------------------
       * USAGE:
