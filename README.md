@@ -72,10 +72,10 @@
     - ✅ | read
     - ✅ | do exercises
     - ✅ | make anki cards
-- ⬜️ | 19:
-    - ⬜️ | read
-    - ⬜️ | do exercises
-    - ⬜️ | make anki cards
+- ✅ | 19:
+    - ✅ | read
+    - ✅ | do exercises
+    - ✅ | make anki cards
 - ⬜️ | 20:
     - ⬜️ | read
     - ⬜️ | do exercises
