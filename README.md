@@ -76,10 +76,10 @@
     - ✅ | read
     - ✅ | do exercises
     - ✅ | make anki cards
-- ⬜️ | 20:
-    - ⬜️ | read
-    - ⬜️ | do exercises
-    - ⬜️ | make anki cards
+- ✅ | 20:
+    - ✅ | read
+    - ✅ | do exercises
+    - ✅ | make anki cards
 - ⬜️ | 21:
     - ⬜️ | read
     - ⬜️ | do exercises
