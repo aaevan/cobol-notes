@@ -1,5 +1,5 @@
 000100 IDENTIFICATION DIVISION.
-000200 PROGRAM-ID. VCHPIC01.
+000200 PROGRAM-ID. vchpic01.
 000300*--------------------------------
 000400* Change only.
 000500* Allows the user to change

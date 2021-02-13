@@ -1,5 +1,5 @@
 000100 IDENTIFICATION DIVISION.
-000200 PROGRAM-ID. VCHMNT01.
+000200 PROGRAM-ID. vchmnt01.
 000300*--------------------------------
 000400* Add, Change, Inquire and Delete
 000500* for the Voucher File.
@@ -49,9 +49,6 @@
 004900     COPY "wscase01.cbl".
 005000
 005100     COPY "wsdate01.cbl".
-
-       77  MMDD                         PIC 9(4).
-       77  CCYY                         PIC 9(4).
 005200
 005300 PROCEDURE DIVISION.
 005400 PROGRAM-BEGIN.
