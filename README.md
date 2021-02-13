@@ -76,11 +76,11 @@
     - ✅ | read
     - ✅ | do exercises
     - ✅ | make anki cards
-- ✅ | 20:
+- ✅ | 20: (finished 02/11/21)
     - ✅ | read
     - ✅ | do exercises
     - ✅ | make anki cards
-- ✅ | 21:
+- ✅ | 21: (finished 02/13/21)
     - ✅ | read
     - ✅ | do exercises
     - ✅ | make anki cards
